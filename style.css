@@ -5,11 +5,12 @@
   }
   body {
     background-color:orange;
-    width:32vw;
+    width:33vw;
     height: auto;
    
   }
   div {
+
     margin:90px;
     background-color:black;
     justify-content:space-between;
@@ -44,7 +45,7 @@
   }
   
   button {
-    padding:11px;
+    padding:10px;
     border-radius:12px;
     width:20%;
     margin:4px 2px 4px 8px;
